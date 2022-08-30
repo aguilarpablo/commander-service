@@ -4,7 +4,7 @@ import org.commander.domain.model.Product;
 
 import java.util.List;
 
-interface ProductService {
+public interface ProductService {
 
     Product createProduct(Product product);
 
